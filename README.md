@@ -1,19 +1,20 @@
 # Raytracer
-Making a program that creates synthetic images according to the raytracing method from a configuration file.
-Created from nothing in pure C (no librairy graphic), pixel per pixel, manage:
- - lights
+
+A program that creates synthetic images from a configuration file using a raytracing algorithm.
+Built from the ground up in C with Epitech's mini-libX graphic library, pixel per pixel. Manages:
+ - lighting
  - brightness
  - shadows
- - translation
- - rotation
+ - object/camera translation
+ - object/camera rotation
  - realTime rendering
- - multithread
- - dynamic modification of camera/lights/object thanks to multithread
+ - multi-threaded
+ - dynamic modification of camera/light/object positioning thanks to multithread opptimisation
  - antialising
- - filtered
- - backup
+ - filters
+ - scene saving
 
-Done in group of 6 studient. I'm responsable of the display engine, parsing and config files for an infinity of objects, realTime rendering, antialiasing, multithread and backup in live. The whole calculation part of shadow/light/translation etc return to my colleges.
+Built by a group of 6 students. I was responsable for the display engine, parsing of config files for an infinite number of objects, real-time rendering, antialiasing, multi-threading and scene saving.
 
 ![alt tag](https://raw.githubusercontent.com/usernameHed/Raytracer/master/RaytracerPres.gif)
 
