@@ -20,3 +20,8 @@ Built by a group of 6 students. I was responsable for the display engine, parsin
 
 
 ![alt tag](https://raw.githubusercontent.com/usernameHed/Raytracer/master/Raytracer.gif)
+
+Youtube:
+Raytracer Result: https://www.youtube.com/watch?v=MvoVkwHWxhg
+
+Raytracer Presentation: https://www.youtube.com/watch?v=wbwylZnO5lw
